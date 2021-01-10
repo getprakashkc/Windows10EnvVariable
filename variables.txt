@@ -1,0 +1,42 @@
+Name                             Value
+----                             -----
+%ALLUSERSPROFILE%                C:\ProgramData
+%APPDATA%                        C:\Users\{username}\AppData\Roaming
+%CLOUDSDK_PYTHON%                C:\Users\{username}\AppData\Local\Programs\Python\Python38-32\python.exe
+%CommonProgramFiles%             C:\Program Files\Common Files
+%CommonProgramFiles(x86)%        C:\Program Files (x86)\Common Files
+%CommonProgramW6432%             C:\Program Files\Common Files
+%COMPUTERNAME%                   {COMPUTERNAME}
+%ComSpec%                        C:\WINDOWS\system32\cmd.exe
+%DriverData%                     C:\Windows\System32\Drivers\DriverData
+%FPS_BROWSER_APP_PROFILE_STRING% Internet Explorer
+%HOMEDRIVE%                      C:
+%HOMEPATH%                       \Users\{username}
+%LOCALAPPDATA%                   C:\Users\{username}\AppData\Local
+%LOGONSERVER%                    \\{COMPUTERNAME}
+%NUMBER_OF_PROCESSORS%           4
+%OneDrive%                       C:\Users\{username}\OneDrive
+%OS%                             Windows_NT
+%Path%                           C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin...
+%PATHEXT%                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+%PROCESSOR_ARCHITECTURE%         AMD64
+%PROCESSOR_IDENTIFIER%           Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+%PROCESSOR_LEVEL%                6
+%PROCESSOR_REVISION%             4e03
+%PROG27B48B2C051%                1
+%ProgramData%                    C:\ProgramData
+%ProgramFiles%                   C:\Program Files
+%ProgramFiles(x86)%              C:\Program Files (x86)
+%ProgramW6432%                   C:\Program Files
+%PSModulePath%                   C:\Users\{username}\Documents\WindowsPowerShell\Modules;C:\Users\{username}...
+%PUBLIC%                         C:\Users\Public
+%SESSIONNAME%                    Console
+%SystemDrive%                    C:
+%SystemRoot%                     C:\WINDOWS
+%TEMP%                           C:\Users\{username}\AppData\Local\Temp
+%TMP%                            C:\Users\{username}\AppData\Local\Temp
+%USERDOMAIN%                     AzureAD
+%USERDOMAIN_ROAMINGPROFILE%      AzureAD
+%USERNAME%                       {username}
+%USERPROFILE%                    C:\Users\{username}
+%windir%                         C:\WINDOWS
